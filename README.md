@@ -2,7 +2,7 @@
 # Walmart-Sales-Analysis
 
 
-Analysis of Sales in respect to a Data Record of 3 years transactions of Wallmart Company. This analysis is done and the main aim was to fetch the insights visually using the Business Intelligence tool Power BI.
+Analysis of Sales in respect to a Data Record of 3 years transactions of Walmart Company. This analysis is done and the main aim was to fetch the insights visually using the Business Intelligence tool Power BI.
 
 
 ## Acknowledgements

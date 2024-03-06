@@ -57,7 +57,7 @@ For the sake of analysis, The essential data cleaning process are done and 4 col
 
 4. Weekday or Weekend - Depending on the Dates, to show whether it is a weekday or Weekend.
 
-There following Dataset is here - [Walmart Data sales.xlsx](https://github.com/Shubhodeep97/Wallmart-Sales-Analysis/files/11197209/Walmart.Data.sales.xlsx)
+The following Dataset is here - [Walmart Data sales.xlsx](https://github.com/Shubhodeep97/Wallmart-Sales-Analysis/files/11197209/Walmart.Data.sales.xlsx)
 
 ## Summary of Findings
 

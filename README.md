@@ -5,11 +5,6 @@
 Analysis of Sales in respect to a Data Record of 3 years transactions of Walmart Company. This analysis is done and the main aim was to fetch the insights visually using the Business Intelligence tool Power BI.
 
 
-## Acknowledgements
-
- - Special thanks to my mentor Mr. Akash Raj for providing me the dataset also helping me into this project.
-
-
 
 ## Appendix
 
